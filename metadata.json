@@ -1,0 +1,6 @@
+{
+  "name": "LECTURA AI",
+  "description": "AI-powered lecture intelligence platform transforming educational YouTube lectures, recordings, and transcripts into comprehensive, structured study kits.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
